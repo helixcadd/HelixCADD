@@ -422,7 +422,7 @@ background-color: #FFFFFF !important;
     display: none;
     background-color: #fff;
     border: 1px solid #f1f1f1;
-    border-top: 2px solid #ffac00; 
+    border-top: 2px solid #2874A6; 
     -webkit-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 12px -3px rgba(0, 0, 0, 0.4);
@@ -1363,7 +1363,7 @@ section#const-team .team_member:hover:before{
 }
 
 section#const-team .member_name{
-    background: #ffac00;
+    background: #2874A6;
     text-align: center;
     position: relative;
     z-index: 1;
@@ -1392,7 +1392,7 @@ section#const-team .member_name{
 
  ul.socialicons li a i{color: #111; background: #fff; height: 35px; width: 35px; text-align: center; line-height: 2.2;}
 
-ul.socialicons li a i:hover{background:#ffac00; color:#fff;}
+ul.socialicons li a i:hover{background:#2874A6; color:#fff;}
 
 section#const-team .member_name h4{margin-bottom: 0; padding: 8px 0;}
 
@@ -1402,7 +1402,7 @@ section#const-team .slick-initialized .slick-slide{padding: 10px 15px;}
 
 section#const-team .slick-prev, section#const-team .slick-next{
   top: 42%;
-  background: #ffac00;
+  background: #2874A6;
 }
 
 section#const-team .slick-prev:before, section#const-team .slick-next:before{
@@ -1444,7 +1444,7 @@ section#const-team .slick-prev:before, section#const-team .slick-next:before{
     content: '';
     height: 2px;
     width: 7%;
-    background: #ffac00;
+    background: #2874A6;
     position: absolute;
     top: 48%;
     left: 0;
@@ -1518,7 +1518,7 @@ section#choose_us{
 
 .choose-list {
     border-width: 1px 1px 1px 3px;
-    border-color: #f1f1f1 #f1f1f1 #f1f1f1 #ffac00;
+    border-color: #f1f1f1 #f1f1f1 #f1f1f1 #2874A6;
     border-style: solid;
     padding: 12px 12px 12px 38px;
     background: #fff;
@@ -1658,14 +1658,14 @@ section#mt_faq-testi .section_heading{padding: 0;}
 .mt_testimonial .testimonial_main h4 span{font-size: 14px; display: block; font-style: italic; font-weight: 300;}
 
 .mt_testimonial .testimonial_main h4 a{
-  color: #ffac00;
+  color: #2874A6;
 }
 
 .client-pic{
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  border:2px solid #ffac00;
+  border:2px solid #2874A6;
   overflow: hidden; 
   display: inline-block;
 }
@@ -1688,7 +1688,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 .mt_testimonial .slick-prev:hover, .mt_testimonial .slick-next:hover, 
 .mt_testimonial .slick-prev:focus, .mt_testimonial .slick-next:focus{
-  background: #ffac00;
+  background: #2874A6;
   transition: all ease-in-out 0.5s;
 } 
 
@@ -1997,7 +1997,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
   bottom: -12px;
   height: 2px;
   width: 40px;
-  background: #ffac00;
+  background: #2874A6;
   left: 0;
 }
 #mt_footer .footer-time {
@@ -2187,7 +2187,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     bottom: 20px;
     right: 20px;
     display:none;
-    background-color:#ffac00; 
+    background-color:#2874A6; 
     border:none;
     border-radius: 50%;
     height: 45px;
@@ -2200,7 +2200,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 #back-to-top:hover{
     opacity: 0.8;
     color: #fff;
-    background-color:#ffac00; 
+    background-color:#2874A6; 
 }
 
 #back-to-top:hover span{color: #fff;}
@@ -2754,7 +2754,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     content: '';
     height: 2px;
     width: 6%;
-    background: #ffac00;
+    background: #2874A6;
     position: absolute;
     top: 46%;
     left: 0;

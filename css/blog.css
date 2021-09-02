@@ -48,7 +48,7 @@
     content: '';
     left: 0;
     width: 0;
-    background: #ffac00;
+    background: #2874A6;
     height: 100%;
     position: absolute;
     top: 0;
@@ -57,7 +57,7 @@
 }
 
 .blog_cat:after{
-    background: #ffac00;
+    background: #2874A6;
 }
 
 .blog-post-image:hover .blog_cat{
