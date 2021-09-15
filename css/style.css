@@ -1,9 +1,7 @@
 
 /*------------------------------------------------------------------
-* Project:        Nirman
-* Author:         CN-InfoTech
-* URL:            hthttps://themeforest.net/user/cn-infotech
-* Created:        3/22/2019
+* Author:         HelixCADD
+* URL:            www.helixcadd.com
 -------------------------------------------------------------------
 
 - // TABLE OF CONTENTS // -
@@ -268,7 +266,7 @@ background-color: #FFFFFF !important;
 
   #inner-navigation .navbar-sticky-in.navbar-default .slicknav_btn.slicknav_open:before, 
   #inner-navigation .navbar-sticky-in.navbar-default .slicknav_btn.slicknav_collapsed:before{
-      color: #ffac00;
+      color: #2874A6;
   }
 
    #inner-navigation .slicknav_nav{height: 280px; top: 74px; overflow-y: scroll;}
@@ -460,7 +458,7 @@ background-color: #FFFFFF !important;
 #inner-navigation .nav.navbar-nav li ul li:hover a, .nav.navbar-nav li ul li ul li:hover a {
     padding-left: 25px;
     padding-right: 15px;
-    color: #ffac00;
+    color: #2874A6;
 }
 
 #inner-navigation .nav.navbar-nav li ul li ul {
@@ -592,7 +590,7 @@ background-color: #FFFFFF !important;
 
    #inner-navigation .navbar-sticky-in.navbar-default .slicknav_btn{top: 27px;}
 
-  #inner-navigation .slicknav_btn.slicknav_open:before, .slicknav_btn.slicknav_collapsed:before{font-size: 21px; color: #ffac00;}
+  #inner-navigation .slicknav_btn.slicknav_open:before, .slicknav_btn.slicknav_collapsed:before{font-size: 21px; color: #2874A6;}
 
 }
 
